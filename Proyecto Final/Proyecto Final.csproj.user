@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Admin\MenuAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\RegistrarAprobador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Aprobadores\MenuAprobador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usuario\CrearSolicitud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usuario\MenuUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

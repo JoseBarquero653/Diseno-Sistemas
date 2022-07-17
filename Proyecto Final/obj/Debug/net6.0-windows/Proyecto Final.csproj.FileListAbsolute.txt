@@ -1,0 +1,30 @@
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto_Final.Admin.MenuAdmin.resources
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto_Final.Admin.RegistrarAprobador.resources
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto_Final.Aprobadores.MenuAprobador.resources
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto_Final.LogIn.resources
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto_Final.RegistrarUsuario.resources
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto_Final.Usuario.MenuUsuario.resources
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfo.cs
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.exe
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.deps.json
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.runtimeconfig.json
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.dll
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\ref\Proyecto Final.dll
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.pdb
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.CopyComplete
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.dll
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\ref\Proyecto Final.dll
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.pdb
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.genruntimeconfig.cache
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto_Final.Usuario.CrearSolicitud.resources
