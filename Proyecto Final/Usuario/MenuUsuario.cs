@@ -22,5 +22,12 @@ namespace Proyecto_Final.Usuario
             CrearSolicitud crearSolicitud = new CrearSolicitud();
             crearSolicitud.Visible = true;
         }
+
+        private void btn_requis_Click(object sender, EventArgs e)
+        {
+            VerRequis requis = new VerRequis();
+            requis.Visible = true;  
+
+        }
     }
 }

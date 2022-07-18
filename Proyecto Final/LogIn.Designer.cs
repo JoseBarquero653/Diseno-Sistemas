@@ -125,8 +125,8 @@
         private Button btn_registrar;
         private TextBox txt_contraseña;
         private Label label2;
-        private TextBox txt_usuario;
         private Label label1;
         private Button btn_ingresar;
+        public TextBox txt_usuario;
     }
 }

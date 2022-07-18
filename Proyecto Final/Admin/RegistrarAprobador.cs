@@ -53,6 +53,15 @@ namespace Proyecto_Final.Admin
                     txt_usuario.BackColor = Color.Red;
                     txt_usuario.Text = "";
                 }
+                SqlDataAdapter adapter1 = new SqlDataAdapter("SELECT * FROM USUARIO WHERE USUARIO = '" + txt_usuario.Text.Trim() + "'", sqlCon);
+                DataTable dt1 = new DataTable();
+                adapter1.Fill(dt1);
+                if (dt1 .Rows.Count == 1)
+                {
+                    MessageBox.Show("Nombre de usuario ocupado");
+                    txt_usuario.BackColor = Color.Red;
+                    txt_usuario.Text = "";
+                }
                 else
                 {
                  //CHECKEAR EL VALOR DEL RADIO BUTTON

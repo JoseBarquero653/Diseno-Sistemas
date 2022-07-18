@@ -55,7 +55,7 @@ namespace Proyecto_Final
                     {
                         menuAdmin.Visible = true;
                         this.Visible = false;
-                        usuarioLoggeado.usuarioLogged = usuario;
+                        
                     }
                     else
                     {
@@ -72,9 +72,9 @@ namespace Proyecto_Final
                     adapter1.Fill(dt1);
                     if (dt1.Rows.Count == 1)
                     {
+                        usuarioLoggeado.aprobadorLogged = usuario;
                         menuAprobador.Visible = true;
                         this.Visible = false;
-                        usuarioLoggeado.usuarioLogged = usuario;
                     }
                     else
                     {

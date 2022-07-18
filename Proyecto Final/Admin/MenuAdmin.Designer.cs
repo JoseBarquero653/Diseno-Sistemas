@@ -33,9 +33,9 @@
             // 
             // btn_aprobador
             // 
-            this.btn_aprobador.Location = new System.Drawing.Point(69, 116);
+            this.btn_aprobador.Location = new System.Drawing.Point(12, 51);
             this.btn_aprobador.Name = "btn_aprobador";
-            this.btn_aprobador.Size = new System.Drawing.Size(79, 54);
+            this.btn_aprobador.Size = new System.Drawing.Size(166, 80);
             this.btn_aprobador.TabIndex = 0;
             this.btn_aprobador.Text = "Crear Aprobador";
             this.btn_aprobador.UseVisualStyleBackColor = true;

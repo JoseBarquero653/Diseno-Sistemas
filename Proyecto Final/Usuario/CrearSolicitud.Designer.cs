@@ -39,6 +39,8 @@
             this.btn_salir = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.lbl_usuario = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.fecha = new System.Windows.Forms.DateTimePicker();
             this.SuspendLayout();
             // 
             // label1
@@ -141,11 +143,29 @@
             this.lbl_usuario.TabIndex = 10;
             this.lbl_usuario.Text = "label5";
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(142, 21);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(41, 15);
+            this.label7.TabIndex = 17;
+            this.label7.Text = "Fecha:";
+            // 
+            // fecha
+            // 
+            this.fecha.Location = new System.Drawing.Point(189, 15);
+            this.fecha.Name = "fecha";
+            this.fecha.Size = new System.Drawing.Size(200, 23);
+            this.fecha.TabIndex = 18;
+            // 
             // CrearSolicitud
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(416, 307);
+            this.Controls.Add(this.fecha);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.lbl_usuario);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.btn_salir);
@@ -177,5 +197,7 @@
         private Button btn_salir;
         private Label label4;
         private Label lbl_usuario;
+        private Label label7;
+        private DateTimePicker fecha;
     }
 }

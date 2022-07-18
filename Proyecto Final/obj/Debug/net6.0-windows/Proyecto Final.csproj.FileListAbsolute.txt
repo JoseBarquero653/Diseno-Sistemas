@@ -28,3 +28,5 @@ C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto 
 C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.pdb
 C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.genruntimeconfig.cache
 C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto_Final.Usuario.CrearSolicitud.resources
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto_Final.Usuario.VerRequis.resources
+C:\Users\joseb\OneDrive\Documents\ULACIT\5 CUATRI 2022\DISENO SISTEMAS\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto_Final.Aprobadores.VerReqs.resources

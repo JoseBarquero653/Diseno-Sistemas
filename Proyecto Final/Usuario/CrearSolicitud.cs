@@ -19,6 +19,7 @@ namespace Proyecto_Final.Usuario
             InitializeComponent();
             //VER EL USERNAME LOGGEADO
             string user = usuarioLoggeado.usuarioLogged;
+
             lbl_usuario.Text = user;
             //PONER EL NUMERO DE ORDEN APENAS SE ABRE EL FRAME
             using (SqlConnection sqlCon = new SqlConnection(conString))
@@ -57,6 +58,7 @@ namespace Proyecto_Final.Usuario
             cmd.Parameters.AddWithValue("@DESCRIPCION", txt_descripcion.Text.Trim());
             cmd.Parameters.AddWithValue("@REMITENTE", lbl_usuario.Text.Trim());
             cmd.Parameters.AddWithValue("@STATUS", "Espera aprobacion");
+            cmd.Parameters.AddWithValue("@FECHA", fecha.Value.ToString());
             cmd.ExecuteNonQuery();
             MessageBox.Show("Registro Existoso");
             this.Close();
